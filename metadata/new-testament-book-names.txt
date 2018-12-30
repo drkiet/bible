@@ -1,0 +1,27 @@
+47 Matthew
+48 Mark
+49 Luke
+50 John
+51 Acts
+52 Romans
+53 1 Corinthians
+54 2 Corinthians
+55 Galatians
+56 Ephesians
+57 Philippians
+58 Colossians
+59 1 Thessalonians
+60 2 Thessalonians
+61 1 Timothy
+62 2 Timothy
+63 Titus
+64 Philemon
+65 Hebrews
+66 James
+67 1 Peter
+68 2 Peter
+69 1 John
+70 2 John
+71 3 John
+72 Jude
+73 Revelation

@@ -1,0 +1,410 @@
+*** the book of John ***
+*** chapter 1 ***
+
+* [1:1–18] The prologue states the main themes of the gospel: life, light, truth, the world, testimony, and the preexistence of Jesus Christ, the incarnate Logos, who reveals God the Father. In origin, it was probably an early Christian hymn. Its closest parallel is in other christological hymns, Col 1:15–20 and Phil 2:6–11. Its core (Jn 1:1–5, 10–11, 14) is poetic in structure, with short phrases linked by “staircase parallelism,” in which the last word of one phrase becomes the first word of the next. Prose inserts (at least Jn 1:6–8, 15) deal with John the Baptist.
+* [1:1] In the beginning: also the first words of the Old Testament (Gn 1:1). Was: this verb is used three times with different meanings in this verse: existence, relationship, and predication. The Word (Greek logos): this term combines God’s dynamic, creative word (Genesis), personified preexistent Wisdom as the instrument of God’s creative activity (Proverbs), and the ultimate intelligibility of reality (Hellenistic philosophy). With God: the Greek preposition here connotes communication with another. Was God: lack of a definite article with “God” in Greek signifies predication rather than identification.
+* [1:3] What came to be: while the oldest manuscripts have no punctuation here, the corrector of Bodmer Papyrus P75, some manuscripts, and the Ante-Nicene Fathers take this phrase with what follows, as staircase parallelism. Connection with Jn 1:3 reflects fourth-century anti-Arianism.
+* [1:5] The ethical dualism of light and darkness is paralleled in intertestamental literature and in the Dead Sea Scrolls. Overcome: “comprehend” is another possible translation, but cf. Jn 12:35; Wis 7:29–30.
+* [1:6] John was sent just as Jesus was “sent” (Jn 4:34) in divine mission. Other references to John the Baptist in this gospel emphasize the differences between them and John’s subordinate role.
+* [1:7] Testimony: the testimony theme of John is introduced, which portrays Jesus as if on trial throughout his ministry. All testify to Jesus: John the Baptist, the Samaritan woman, scripture, his works, the crowds, the Spirit, and his disciples.
+* [1:11] What was his own…his own people: first a neuter, literally, “his own property/possession” (probably = Israel), then a masculine, “his own people” (the Israelites).
+* [1:13] Believers in Jesus become children of God not through any of the three natural causes mentioned but through God who is the immediate cause of the new spiritual life. Were born: the Greek verb can mean “begotten” (by a male) or “born” (from a female or of parents). The variant “he who was begotten,” asserting Jesus’ virginal conception, is weakly attested in Old Latin and Syriac versions.
+* [1:14] Flesh: the whole person, used probably against docetic tendencies (cf. 1 Jn 4:2; 2 Jn 7). Made his dwelling: literally, “pitched his tent/tabernacle.” Cf. the tabernacle or tent of meeting that was the place of God’s presence among his people (Ex 25:8–9). The incarnate Word is the new mode of God’s presence among his people. The Greek verb has the same consonants as the Aramaic word for God’s presence (Shekinah). Glory: God’s visible manifestation of majesty in power, which once filled the tabernacle (Ex 40:34) and the temple (1 Kgs 8:10–11, 27), is now centered in Jesus. Only Son: Greek, monogenēs, but see note on Jn 1:18. Grace and truth: these words may represent two Old Testament terms describing Yahweh in covenant relationship with Israel (cf. Ex 34:6), thus God’s “love” and “fidelity.” The Word shares Yahweh’s covenant qualities.
+* [1:15] This verse, interrupting Jn 1:14, 16 seems drawn from Jn 1:30.
+* [1:16] Grace in place of grace: replacement of the Old Covenant with the New (cf. Jn 1:17). Other possible translations are “grace upon grace” (accumulation) and “grace for grace” (correspondence).
+* [1:18] The only Son, God: while the vast majority of later textual witnesses have another reading, “the Son, the only one” or “the only Son,” the translation above follows the best and earliest manuscripts, monogenēs theos, but takes the first term to mean not just “Only One” but to include a filial relationship with the Father, as at Lk 9:38 (“only child”) or Heb 11:17 (“only son”) and as translated at Jn 1:14. The Logos is thus “only Son” and God but not Father/God.
+* [1:19–51] The testimony of John the Baptist about the Messiah and Jesus’ self-revelation to the first disciples. This section constitutes the introduction to the gospel proper and is connected with the prose inserts in the prologue. It develops the major theme of testimony in four scenes: John’s negative testimony about himself; his positive testimony about Jesus; the revelation of Jesus to Andrew and Peter; the revelation of Jesus to Philip and Nathanael.
+* [1:19] The Jews: throughout most of the gospel, the “Jews” does not refer to the Jewish people as such but to the hostile authorities, both Pharisees and Sadducees, particularly in Jerusalem, who refuse to believe in Jesus. The usage reflects the atmosphere, at the end of the first century, of polemics between church and synagogue, or possibly it refers to Jews as representative of a hostile world (Jn 1:10–11).
+* [1:20] Messiah: the anointed agent of Yahweh, usually considered to be of Davidic descent. See further the note on Jn 1:41.
+* [1:21] Elijah: the Baptist did not claim to be Elijah returned to earth (cf. Mal 3:19; Mt 11:14). The Prophet: probably the prophet like Moses (Dt 18:15; cf. Acts 3:22).
+* [1:23] This is a repunctuation and reinterpretation (as in the synoptic gospels and Septuagint) of the Hebrew text of Is 40:3 which reads, “A voice cries out: In the desert prepare the way of the Lord.”
+* [1:24] Some Pharisees: other translations, such as “Now they had been sent from the Pharisees,” misunderstand the grammatical construction. This is a different group from that in Jn 1:19; the priests and Levites would have been Sadducees, not Pharisees.
+* [1:26] I baptize with water: the synoptics add “but he will baptize you with the holy Spirit” (Mk 1:8) or “…holy Spirit and fire” (Mt 3:11; Lk 3:16). John’s emphasis is on purification and preparation for a better baptism.
+* [1:28] Bethany across the Jordan: site unknown. Another reading is “Bethabara.”
+* [1:29] The Lamb of God: the background for this title may be the victorious apocalyptic lamb who would destroy evil in the world (Rev 5–7; 17:14); the paschal lamb, whose blood saved Israel (Ex 12); and/or the suffering servant led like a lamb to the slaughter as a sin-offering (Is 53:7, 10).
+* [1:30] He existed before me: possibly as Elijah (to come, Jn 1:27); for the evangelist and his audience, Jesus’ preexistence would be implied (see note on Jn 1:1).
+* [1:31] I did not know him: this gospel shows no knowledge of the tradition (Lk 1) about the kinship of Jesus and John the Baptist. The reason why I came baptizing with water: in this gospel, John’s baptism is not connected with forgiveness of sins; its purpose is revelatory, that Jesus may be made known to Israel.
+* [1:32] Like a dove: a symbol of the new creation (Gn 8:8) or the community of Israel (Hos 11:11). Remain: the first use of a favorite verb in John, emphasizing the permanency of the relationship between Father and Son (as here) and between the Son and the Christian. Jesus is the permanent bearer of the Spirit.
+* [1:34] The Son of God: this reading is supported by good Greek manuscripts, including the Chester Beatty and Bodmer Papyri and the Vatican Codex, but is suspect because it harmonizes this passage with the synoptic version: “This is my beloved Son” (Mt 3:17; Mk 1:11; Lk 3:22). The poorly attested alternate reading, “God’s chosen One,” is probably a reference to the Servant of Yahweh (Is 42:1).
+* [1:36] John the Baptist’s testimony makes his disciples’ following of Jesus plausible.
+* [1:37] The two disciples: Andrew (Jn 1:40) and, traditionally, John, son of Zebedee (see note on Jn 13:23).
+* [1:39] Four in the afternoon: literally, the tenth hour, from sunrise, in the Roman calculation of time. Some suggest that the next day, beginning at sunset, was the sabbath; they would have stayed with Jesus to avoid travel on it.
+* [1:41] Messiah: the Hebrew word māśiâh, “anointed one” (see note on Lk 2:11), appears in Greek as the transliterated messias only here and in Jn 4:25. Elsewhere the Greek translation christos is used.
+* [1:42] Simon, the son of John: in Mt 16:17, Simon is called Bariona, “son of Jonah,” a different tradition for the name of Simon’s father. Cephas: in Aramaic = the Rock; cf. Mt 16:18. Neither the Greek equivalent Petros nor, with one isolated exception, Cephas is attested as a personal name before Christian times.
+* [1:43] He: grammatically, could be Peter, but logically is probably Jesus.
+* [1:47] A true Israelite. There is no duplicity in him: Jacob was the first to bear the name “Israel” (Gn 32:29), but Jacob was a man of duplicity (Gn 27:35–36).
+* [1:48] Under the fig tree: a symbol of messianic peace (cf. Mi 4:4; Zec 3:10).
+* [1:49] Son of God: this title is used in the Old Testament, among other ways, as a title of adoption for the Davidic king (2 Sm 7:14; Ps 2:7; 89:27), and thus here, with King of Israel, in a messianic sense. For the evangelist, Son of God also points to Jesus’ divinity (cf. Jn 20:28).
+* [1:50] Possibly a statement: “You [singular] believe because I saw you under the fig tree.”
+* [1:51] The double “Amen” is characteristic of John. You is plural in Greek. The allusion is to Jacob’s ladder (Gn 28:12).
+
+*** chapter 2 ***
+
+* [2:1–6:71] Signs revealing Jesus as the Messiah to all Israel. “Sign” (sēmeion) is John’s symbolic term for Jesus’ wondrous deeds (see Introduction). The Old Testament background lies in the Exodus story (cf. Dt 11:3; 29:2). John is interested primarily in what the sēmeia signify: God’s intervention in human history in a new way through Jesus.
+* [2:1–11] The first sign. This story of replacement of Jewish ceremonial washings (Jn 2:6) presents the initial revelation about Jesus at the outset of his ministry. He manifests his glory; the disciples believe. There is no synoptic parallel.
+* [2:1] Cana: unknown from the Old Testament. The mother of Jesus: she is never named in John.
+* [2:4] This verse may seek to show that Jesus did not work miracles to help his family and friends, as in the apocryphal gospels. Woman: a normal, polite form of address, but unattested in reference to one’s mother. Cf. also Jn 19:26. How does your concern affect me?: literally, “What is this to me and to you?”—a Hebrew expression of either hostility (Jgs 11:12; 2 Chr 35:21; 1 Kgs 17:18) or denial of common interest (Hos 14:9; 2 Kgs 3:13). Cf. Mk 1:24; 5:7 used by demons to Jesus. My hour has not yet come: the translation as a question (“Has not my hour now come?”), while preferable grammatically and supported by Greek Fathers, seems unlikely from a comparison with Jn 7:6, 30. The “hour” is that of Jesus’ passion, death, resurrection, and ascension (Jn 13:1).
+* [2:6] Twenty to thirty gallons: literally, “two or three measures”; the Attic liquid measure contained 39.39 liters. The vast quantity recalls prophecies of abundance in the last days; cf. Am 9:13–14; Hos 14:7; Jer 31:12.
+* [2:8] Headwaiter: used of the official who managed a banquet, but there is no evidence of such a functionary in Palestine. Perhaps here a friend of the family acted as master of ceremonies; cf. Sir 32:1.
+* [2:11] The beginning of his signs: the first of seven (see Introduction).
+* [2:12–3:21] The next three episodes take place in Jerusalem. Only the first is paralleled in the synoptic gospels.
+* [2:12] This transitional verse may be a harmonization with the synoptic tradition in Lk 4:31 and Mt 4:13. There are many textual variants. John depicts no extended ministry in Capernaum as do the synoptics.
+* [2:13–22] This episode indicates the post-resurrectional replacement of the temple by the person of Jesus.
+* [2:13] Passover: this is the first Passover mentioned in John; a second is mentioned in Jn 6:4; a third in Jn 13:1. Taken literally, they point to a ministry of at least two years.
+* [2:14–22] The other gospels place the cleansing of the temple in the last days of Jesus’ life (Matthew, on the day Jesus entered Jerusalem; Mark, on the next day). The order of events in the gospel narratives is often determined by theological motives rather than by chronological data.
+* [2:14] Oxen, sheep, and doves: intended for sacrifice. The doves were the offerings of the poor (Lv 5:7). Money-changers: for a temple tax paid by every male Jew more than nineteen years of age, with a half-shekel coin (Ex 30:11–16), in Syrian currency. See note on Mt 17:24.
+* [2:17] Ps 69:10, changed to future tense to apply to Jesus.
+* [2:19] This saying about the destruction of the temple occurs in various forms (Mt 24:2; 27:40; Mk 13:2; 15:29; Lk 21:6; cf. Acts 6:14). Mt 26:61 has: “I can destroy the temple of God…”; see note there. In Mk 14:58, there is a metaphorical contrast with a new temple: “I will destroy this temple made with hands and within three days I will build another not made with hands.” Here it is symbolic of Jesus’ resurrection and the resulting community (see Jn 2:21 and Rev 21:2). In three days: an Old Testament expression for a short, indefinite period of time; cf. Hos 6:2.
+* [2:20] Forty-six years: based on references in Josephus (Jewish Wars 1, 21, 1 #401; Antiquities 15, 11, 1 #380), possibly the spring of A.D. 28. Cf. note on Lk 3:1.
+
+*** chapter 3 ***
+
+* [3:1–21] Jesus instructs Nicodemus on the necessity of a new birth from above. This scene in Jerusalem at Passover exemplifies the faith engendered by signs (Jn 2:23). It continues the self-manifestation of Jesus in Jerusalem begun in Jn 2. This is the first of the Johannine discourses, shifting from dialogue to monologue (Jn 3:11–15) to reflection of the evangelist (Jn 3:16–21). The shift from singular through Jn 3:10 to plural in Jn 3:11 may reflect the early church’s controversy with the Jews.
+* [3:1] A ruler of the Jews: most likely a member of the Jewish council, the Sanhedrin; see note on Mk 8:31.
+* [3:3] Born: see note on Jn 1:13. From above: the Greek adverb anōthen means both “from above” and “again.” Jesus means “from above” (see Jn 3:31) but Nicodemus misunderstands it as “again.” This misunderstanding serves as a springboard for further instruction.
+* [3:8] Wind: the Greek word pneuma (as well as the Hebrew rûah) means both “wind” and “spirit.” In the play on the double meaning, “wind” is primary.
+* [3:14] Lifted up: in Nm 21:9 Moses simply “mounted” a serpent upon a pole. John here substitutes a verb implying glorification. Jesus, exalted to glory at his cross and resurrection, represents healing for all.
+* [3:15] Eternal life: used here for the first time in John, this term stresses quality of life rather than duration.
+* [3:16] Gave: as a gift in the incarnation, and also “over to death” in the crucifixion; cf. Rom 8:32.
+* [3:17–19] Condemn: the Greek root means both judgment and condemnation. Jesus’ purpose is to save, but his coming provokes judgment; some condemn themselves by turning from the light.
+* [3:19] Judgment is not only future but is partially realized here and now.
+* [3:22–26] Jesus’ ministry in Judea is only loosely connected with Jn 2:13–3:21; cf. Jn 1:19–36. Perhaps John the Baptist’s further testimony was transposed here to give meaning to “water” in Jn 3:5. Jesus is depicted as baptizing (Jn 3:22); contrast Jn 4:2.
+* [3:23] Aenon near Salim: site uncertain, either in the upper Jordan valley or in Samaria.
+* [3:24] A remark probably intended to avoid objections based on a chronology like that of the synoptics (Mt 4:12; Mk 1:14).
+* [3:25] A Jew: some think Jesus is meant. Many manuscripts read “Jews.”
+* [3:29] The best man: literally, “the friend of the groom,” the shoshben of Jewish tradition, who arranged the wedding. Competition between him and the groom would be unthinkable.
+* [3:31–36] It is uncertain whether these are words by the Baptist, Jesus, or the evangelist. They are reflections on the two preceding scenes.
+* [3:34] His gift: of God or to Jesus, perhaps both. This verse echoes Jn 5:8.
+
+*** chapter 4 ***
+
+* [4:1–42] Jesus in Samaria. The self-revelation of Jesus continues with his second discourse, on his mission to “half-Jews.” It continues the theme of replacement, here with regard to cult (Jn 4:21). Water (Jn 4:7–15) serves as a symbol (as at Cana and in the Nicodemus episode).
+* [4:2] An editorial refinement of Jn 3:22, perhaps directed against followers of John the Baptist who claimed that Jesus imitated him.
+* [4:4] He had to: a theological necessity; geographically, Jews often bypassed Samaria by taking a route across the Jordan.
+* [4:5] Sychar: Jerome identifies this with Shechem, a reading found in Syriac manuscripts.
+* [4:9] Samaritan women were regarded by Jews as ritually impure, and therefore Jews were forbidden to drink from any vessel they had handled.
+* [4:10] Living water: the water of life, i.e., the revelation that Jesus brings; the woman thinks of “flowing water,” so much more desirable than stagnant cistern water. On John’s device of such misunderstanding, cf. note on Jn 3:3.
+* [4:11] Sir: the Greek kyrios means “master” or “lord,” as a respectful mode of address for a human being or a deity; cf. Jn 4:19. It is also the word used in the Septuagint for the Hebrew ’adônai, substituted for the tetragrammaton YHWH.
+* [4:20] This mountain: Gerizim, on which a temple was erected in the fourth century B.C. by Samaritans to rival Mount Zion in Jerusalem; cf. Dt 27:4 (Mount Ebal = the Jews’ term for Gerizim).
+* [4:23] In Spirit and truth: not a reference to an interior worship within one’s own spirit. The Spirit is the spirit given by God that reveals truth and enables one to worship God appropriately (Jn 14:16–17). Cf. “born of water and Spirit” (Jn 3:5).
+* [4:25] The expectations of the Samaritans are expressed here in Jewish terminology. They did not expect a messianic king of the house of David but a prophet like Moses (Dt 18:15).
+* [4:26] I am he: it could also be translated “I am,” an Old Testament self-designation of Yahweh (Is 43:3, etc.); cf. Jn 6:20; 8:24, 28, 58; 13:19; 18:5–6, 8. See note on Mk 6:50.
+* [4:27] Talking with a woman: a religious and social restriction that Jesus is pictured treating as unimportant.
+* [4:35] ‘In four months… ’: probably a proverb; cf. Mt 9:37–38.
+* [4:36] Already: this word may go with the preceding verse rather than with Jn 4:36.
+* [4:39] The woman is presented as a missionary, described in virtually the same words as the disciples are in Jesus’ prayer (Jn 17:20).
+* [4:43–54] Jesus’ arrival in Cana in Galilee; the second sign. This section introduces another theme, that of the life-giving word of Jesus. It is explicitly linked to the first sign (Jn 2:11). The royal official believes (Jn 4:50). The natural life given his son is a sign of eternal life.
+* [4:44] Probably a reminiscence of a tradition as in Mk 6:4. Cf. Gospel of Thomas 4:31: “No prophet is acceptable in his village, no physician heals those who know him.”
+* [4:46–54] The story of the cure of the royal official’s son may be a third version of the cure of the centurion’s son (Mt 8:5–13) or servant (Lk 7:1–10). Cf. also Mt 15:21–28; Mk 7:24–30.
+
+*** chapter 5 ***
+
+* [5:1–47] The self-revelation of Jesus continues in Jerusalem at a feast. The third sign (cf. Jn 2:11; 4:54) is performed, the cure of a paralytic by Jesus’ life-giving word. The water of the pool fails to bring life; Jesus’ word does.
+* [5:1] The reference in Jn 5:45–46 to Moses suggests that the feast was Pentecost. The connection of that feast with the giving of the law to Moses on Sinai, attested in later Judaism, may already have been made in the first century. The feast could also be Passover (cf. Jn 6:4). John stresses that the day was a sabbath (Jn 5:9).
+* [5:2] There is no noun with Sheep. “Gate” is supplied on the grounds that there must have been a gate in the NE wall of the temple area where animals for sacrifice were brought in; cf. Neh 3:1, 32; 12:39. Hebrew: more precisely, Aramaic. Bethesda: preferred to variants “Be(th)zatha” and “Bethsaida”; bêt-’eśdatayin is given as the name of a double pool northeast of the temple area in the Qumran Copper Roll. Five porticoes: a pool excavated in Jerusalem actually has five porticoes.
+* [5:3] The Caesarean and Western recensions, followed by the Vulgate, add “waiting for the movement of the water.” Apparently an intermittent spring in the pool bubbled up occasionally (see Jn 5:7). This turbulence was believed to cure.
+* [5:4] Toward the end of the second century in the West and among the fourth-century Greek Fathers, an additional verse was known: “For [from time to time] an angel of the Lord used to come down into the pool; and the water was stirred up, so the first one to get in [after the stirring of the water] was healed of whatever disease afflicted him.” The angel was a popular explanation of the turbulence and the healing powers attributed to it. This verse is missing from all early Greek manuscripts and the earliest versions, including the original Vulgate. Its vocabulary is markedly non-Johannine.
+* [5:14] While the cure of the paralytic in Mk 2:1–12 is associated with the forgiveness of sins, Jesus never drew a one-to-one connection between sin and suffering (cf. Jn 9:3; Lk 12:1–5), as did Ez 18:20.
+* [5:17] Sabbath observance (10) was based on God’s resting on the seventh day (cf. Gn 2:2–3; Ex 20:11). Philo and some rabbis insisted that God’s providence remains active on the sabbath, keeping all things in existence, giving life in birth and taking it away in death. Other rabbis taught that God rested from creating, but not from judging (=ruling, governing). Jesus here claims the same authority to work as the Father, and, in the discourse that follows, the same divine prerogatives: power over life and death (Jn 5:21, 24–26) and judgment (Jn 5:22, 27).
+* [5:19] This proverb or parable is taken from apprenticeship in a trade: the activity of a son is modeled on that of his father. Jesus’ dependence on the Father is justification for doing what the Father does.
+* [5:21] Gives life: in the Old Testament, a divine prerogative (Dt 32:39; 1 Sm 2:6; 2 Kgs 5:7; Tb 13:2; Is 26:19; Dn 12:2).
+* [5:22] Judgment: another divine prerogative, often expressed as acquittal or condemnation (Dt 32:36; Ps 43:1).
+* [5:28–29] While Jn 5:19–27 present realized eschatology, Jn 5:28–29 are future eschatology; cf. Dn 12:2.
+* [5:32] Another: likely the Father, who in four different ways gives testimony to Jesus, as indicated in the verse groupings Jn 5:33–34, 36, 37–38, 39–40.
+* [5:35] Lamp: cf. Ps 132:17—“I will place a lamp for my anointed (= David),” and possibly the description of Elijah in Sir 48:1. But only for a while, indicating the temporary and subordinate nature of John’s mission.
+* [5:39] You search: this may be an imperative: “Search the scriptures, because you think that you have eternal life through them.”
+* [5:41] Praise: the same Greek word means “praise” or “honor” (from others) and “glory” (from God). There is a play on this in Jn 5:44.
+
+*** chapter 6 ***
+
+* [6:1–15] This story of the multiplication of the loaves is the fourth sign (cf. note on Jn 5:1–47). It is the only miracle story found in all four gospels (occurring twice in Mark and Matthew). See notes on Mt 14:13–21; 15:32–39. John differs on the roles of Philip and Andrew, the proximity of Passover (Jn 6:4), and the allusion to Elisha (see Jn 6:9). The story here symbolizes the food that is really available through Jesus. It connotes a new exodus and has eucharistic overtones.
+* [6:1] [Of Tiberias]: the awkward apposition represents a later name of the Sea of Galilee. It was probably originally a marginal gloss.
+* [6:5] Jesus takes the initiative (in the synoptics, the disciples do), possibly pictured as (cf. Jn 6:14) the new Moses (cf. Nm 11:13).
+* [6:6] Probably the evangelist’s comment; in this gospel Jesus is never portrayed as ignorant of anything.
+* [6:7] Days’ wages: literally, “denarii”; a Roman denarius is a day’s wage in Mt 20:2.
+* [6:9] Barley loaves: the food of the poor. There seems an allusion to the story of Elisha multiplying the barley bread in 2 Kgs 4:42–44.
+* [6:10] Grass: implies springtime, and therefore Passover. Five thousand: so Mk 6:39, 44 and parallels.
+* [6:13] Baskets: the word describes the typically Palestinian wicker basket, as in Mk 6:43 and parallels.
+* [6:14] The Prophet: probably the prophet like Moses (see note on Jn 1:21). The one who is to come into the world: probably Elijah; cf. Mal 3:1, 23.
+* [6:16–21] The fifth sign is a nature miracle, portraying Jesus sharing Yahweh’s power. Cf. the parallel stories following the multiplication of the loaves in Mk 6:45–52 and Mt 14:22–33.
+* [6:19] Walking on the sea: although the Greek (cf. Jn 6:16) could mean “on the seashore” or “by the sea” (cf. Jn 21:1), the parallels, especially Mt 14:25, make clear that Jesus walked upon the water. John may allude to Jb 9:8: God “treads upon the crests of the sea.”
+* [6:20] It is I: literally, “I am.” See also notes on Jn 4:26 and Mk 6:50.
+* [6:22–71] Discourse on the bread of life; replacement of the manna. Jn 6:22–34 serve as an introduction, Jn 6:35–59 constitute the discourse proper, Jn 6:60–71 portray the reaction of the disciples and Peter’s confession.
+* [6:23] Possibly a later interpolation, to explain how the crowd got to Capernaum.
+* [6:27] The food that endures for eternal life: cf. Jn 4:14, on water “springing up to eternal life.”
+* [6:31] Bread from heaven: cf. Ex 16:4, 15, 32–34 and the notes there; Ps 78:24. The manna, thought to have been hidden by Jeremiah (2 Mc 2:5–8), was expected to reappear miraculously at Passover, in the last days.
+* [6:35–59] Up to Jn 6:50 “bread of life” is a figure for God’s revelation in Jesus; in Jn 6:51–58, the eucharistic theme comes to the fore. There may thus be a break between Jn 6:50–51.
+* [6:43] Murmuring: the word may reflect the Greek of Ex 16:2, 7–8.
+* [6:54–58] Eats: the verb used in these verses is not the classical Greek verb used of human eating, but that of animal eating: “munch,” “gnaw.” This may be part of John’s emphasis on the reality of the flesh and blood of Jesus (cf. Jn 6:55), but the same verb eventually became the ordinary verb in Greek meaning “eat.”
+* [6:60–71] These verses refer more to themes of Jn 6:35–50 than to those of Jn 6:51–58 and seem to be addressed to members of the Johannine community who found it difficult to accept the high christology reflected in the bread of life discourse.
+* [6:62] This unfinished conditional sentence is obscure. Probably there is a reference to Jn 6:49–51. Jesus claims to be the bread that comes down from heaven (Jn 6:50); this claim provokes incredulity (Jn 6:60); and so Jesus is pictured as asking what his disciples will say when he goes up to heaven.
+* [6:63] Spirit,flesh: probably not a reference to the eucharistic body of Jesus but to the supernatural and the natural, as in Jn 3:6. Spirit and life: all Jesus said about the bread of life is the revelation of the Spirit.
+
+*** chapter 7 ***
+
+* [7:1–8] These chapters contain events about the feast of Tabernacles (Sukkoth, Ingathering: Ex 23:16; Tents, Booths: Dt 16:13–16), with its symbols of booths (originally built to shelter harvesters), rain (water from Siloam poured on the temple altar), and lights (illumination of the four torches in the Court of the Women). They continue the theme of the replacement of feasts (Passover, Jn 2:13; 6:4; Hanukkah, Jn 10:22; Pentecost, Jn 5:1), here accomplished by Jesus as the Living Water. These chapters comprise seven miscellaneous controversies and dialogues. There is a literary inclusion with Jesus in hiding in Jn 7:4, 10; 8:59. There are frequent references to attempts on his life: Jn 7:1, 13, 19, 25, 30, 32, 44; 8:37, 40, 59.
+* [7:3] Brothers: these relatives (cf. Jn 2:12 and see note on Mk 6:3) are never portrayed as disciples until after the resurrection (Acts 1:14). Mt 13:55 and Mk 6:3 give the names of four of them. Jesus has already performed works/signs in Judea; cf. Jn 2:23; 3:2; 4:45; 5:8.
+* [7:6] Time: the Greek word means “opportune time,” here a synonym for Jesus’ “hour” (see note on Jn 2:4), his death and resurrection. In the wordplay, any time is suitable for Jesus’ brothers, because they are not dependent on God’s will.
+* [7:8] I am not going up: an early attested reading “not yet” seems a correction, since Jesus in the story does go up to the feast. “Go up,” in a play on words, refers not only to going up to Jerusalem but also to exaltation at the cross, resurrection, and ascension; cf. Jn 3:14; 6:62; 20:17.
+* [7:14–31] Jesus teaches in the temple; debate with the Jews.
+* [7:15] Without having studied: literally, “How does he know letters without having learned?” Children were taught to read and write by means of the scriptures. But here more than Jesus’ literacy is being discussed; the people are wondering how he can teach like a rabbi. Rabbis were trained by other rabbis and traditionally quoted their teachers.
+* [7:17] To do his will: presumably a reference back to the “work” of Jn 6:29: belief in the one whom God has sent.
+* [7:20] You are possessed: literally, “You have a demon.” The insane were thought to be possessed by a demoniacal spirit.
+* [7:21] One work: the cure of the paralytic (Jn 5:1–9) because of the reference to the sabbath (Jn 7:22; 5:9–10).
+* [7:26] The authorities: the members of the Sanhedrin (same term as Jn 3:1).
+* [7:32–36] Jesus announces his approaching departure (cf. also Jn 8:21; 12:36; 13:33) and complete control over his destiny.
+* [7:35] Dispersion: or “diaspora”: Jews living outside Palestine. Greeks: probably refers to the Gentiles in the Mediterranean area; cf. Jn 12:20.
+* [7:37, 39] Promise of living water through the Spirit.
+* [7:38] Living water: not an exact quotation from any Old Testament passage; in the gospel context the gift of the Spirit is meant; cf. Jn 3:5. From within him: either Jesus or the believer; if Jesus, it continues the Jesus-Moses motif (water from the rock, Ex 17:6; Nm 20:11) as well as Jesus as the new temple (cf. Ez 47:1). Grammatically, it goes better with the believer.
+* [7:39] No Spirit yet: Codex Vaticanus and early Latin, Syriac, and Coptic versions add “given.” In this gospel, the sending of the Spirit cannot take place until Jesus’ glorification through his death, resurrection, and ascension; cf. Jn 20:22.
+* [7:40–53] Discussion of the Davidic lineage of the Messiah.
+
+*** chapter 8 ***
+
+* [7:53–8:11] The story of the woman caught in adultery is a later insertion here, missing from all early Greek manuscripts. A Western text-type insertion, attested mainly in Old Latin translations, it is found in different places in different manuscripts: here, or after Jn 7:36 or at the end of this gospel, or after Lk 21:38, or at the end of that gospel. There are many non-Johannine features in the language, and there are also many doubtful readings within the passage. The style and motifs are similar to those of Luke, and it fits better with the general situation at the end of Lk 21: but it was probably inserted here because of the allusion to Jer 17:13 (cf. note on Jn 8:6) and the statement, “I do not judge anyone,” in Jn 8:15. The Catholic Church accepts this passage as canonical scripture.
+* [8:1] Mount of Olives: not mentioned elsewhere in the gospel tradition outside of passion week.
+* [8:5] Lv 20:10 and Dt 22:22 mention only death, but Dt 22:23–24 prescribes stoning for a betrothed virgin.
+* [8:6] Cf. Jer 17:13 (RSV): “Those who turn away from thee shall be written in the earth, for they have forsaken the LORD, the fountain of living water”; cf. Jn 7:38.
+* [8:7] The first stones were to be thrown by the witnesses (Dt 17:7).
+* [8:12–20] Jesus the light of the world. Jesus replaces the four torches of the illumination of the temple as the light of joy.
+* [8:14] My testimony can be verified: this seems to contradict Jn 5:31 but the emphasis here is on Jesus’ origin from the Father and his divine destiny. Where I am going: indicates Jesus’ passion and glorification.
+* [8:15] By appearances: literally, “according to the flesh.” I do not judge anyone: superficial contradiction of Jn 5:22, 27, 30; here the emphasis is that the judgment is not by material standards.
+* [8:17] Your law: a reflection of later controversy between church and synagogue.
+* [8:21–30] He whose ambassador I am is with me. Jesus’ origin is from God; he can reveal God.
+* [8:21] You will die in your sin: i.e., of disbelief; cf. Jn 8:24. Where I am going you cannot come: except through faith in Jesus’ passion-resurrection.
+* [8:22] The Jews suspect that he is referring to his death. Johannine irony is apparent here; Jesus’ death will not be self-inflicted but destined by God.
+* [8:24, 28] I AM: an expression that late Jewish tradition understood as Yahweh’s own self-designation (Is 43:10); see note on Jn 4:26. Jesus is here placed on a par with Yahweh.
+* [8:25] What I told you from the beginning: this verse seems textually corrupt, with several other possible translations: “(I am) what I say to you”; “Why do I speak to you at all?” The earliest attested reading (Bodmer Papyrus P66) has (in a second hand), “I told you at the beginning what I am also telling you (now).” The answer here (cf. Prv 8:22) seems to hinge on a misunderstanding of Jn 8:24 “that I AM” as “what I am.”
+* [8:31–59] Jesus’ origin (“before Abraham”) and destiny are developed; the truth will free them from sin (Jn 8:34) and death (Jn 8:51).
+* [8:31] Those Jews who believed in him: a rough editorial suture, since in Jn 8:37 they are described as trying to kill Jesus.
+* [8:33] Have never been enslaved to anyone: since, historically, the Jews were enslaved almost continuously, this verse is probably Johannine irony, about slavery to sin.
+* [8:35] A slave…a son: an allusion to Ishmael and Isaac (Gn 16; 21), or to the release of a slave after six years (Ex 21:2; Dt 15:12).
+* [8:38] The Father: i.e., God. It is also possible, however, to understand the second part of the verse as a sarcastic reference to descent of the Jews from the devil (Jn 8:44), “You do what you have heard from [your] father.”
+* [8:39] The works of Abraham: Abraham believed; cf. Rom 4:11–17; Jas 2:21–23.
+* [8:48] Samaritan: therefore interested in magical powers; cf. Acts 7:14–24.
+* [8:53] Are you greater than our father Abraham?: cf. Jn 4:12.
+* [8:56] He saw it: this seems a reference to the birth of Isaac (Gn 17:7; 21:6), the beginning of the fulfillment of promises about Abraham’s seed.
+* [8:57] The evidence of the third-century Bodmer Papyrus P75 and the first hand of Codex Sinaiticus indicates that the text originally read: “How can Abraham have seen you?”
+* [8:58] Came to be, I AM: the Greek word used for “came to be” is the one used of all creation in the prologue, while the word used for “am” is the one reserved for the Logos.
+
+*** chapter 9 ***
+
+* [9:1–10:21] Sabbath healing of the man born blind. This fifth sign is introduced to illustrate the saying, “I am the light of the world” (Jn 8:12; 9:5). The narrative of conflict about Jesus contrasts Jesus (light) with the Jews (blindness, Jn 9:39–41). The theme of water is reintroduced in the reference to the pool of Siloam. Ironically, Jesus is being judged by the Jews, yet the Jews are judged by the Light of the world; cf. Jn 3:19–21.
+* [9:2] See note on Jn 5:14, and Ex 20:5, that parents’ sins were visited upon their children. Jesus denies such a cause and emphasizes the purpose: the infirmity was providential.
+* [9:7] Go wash: perhaps a test of faith; cf. 2 Kgs 5:10–14. The water tunnel Siloam (= Sent) is used as a symbol of Jesus, sent by his Father.
+* [9:14] In using spittle, kneading clay, and healing, Jesus had broken the sabbath rules laid down by Jewish tradition.
+* [9:22] This comment of the evangelist (in terms used again in Jn 12:42; Jn 16:2) envisages a situation after Jesus’ ministry. Rejection/excommunication from the synagogue of Jews who confessed Jesus as Messiah seems to have begun ca. A.D. 85, when the curse against the mînîm or heretics was introduced into the “Eighteen Benedictions.”
+* [9:24] Give God the praise!: an Old Testament formula of adjuration to tell the truth; cf. Jos 7:19; 1 Sm 6:5 LXX. Cf. Jn 5:41.
+* [9:32] A person born blind: the only Old Testament cure from blindness is found in Tobit (cf. Tb 7:7; 11:7–13; 14:1–2), but Tobit was not born blind.
+* [9:39–41] These verses spell out the symbolic meaning of the cure; the Pharisees are not the innocent blind, willing to accept the testimony of others.
+
+*** chapter 10 ***
+
+* [10:1–21] The good shepherd discourse continues the theme of attack on the Pharisees that ends Jn 9. The figure is allegorical: the hired hands are the Pharisees who excommunicated the cured blind man. It serves as a commentary on Jn 9. For the shepherd motif, used of Yahweh in the Old Testament, cf. Ex 34; Gn 48:15; 49:24; Mi 7:14; Ps 23:1–4; 80:1.
+* [10:1] Sheepfold: a low stone wall open to the sky.
+* [10:4] Recognize his voice: the Pharisees do not recognize Jesus, but the people of God, symbolized by the blind man, do.
+* [10:6] Figure of speech: John uses a different word for illustrative speech than the “parable” of the synoptics, but the idea is similar.
+* [10:7–10] In Jn 10:7–8, the figure is of a gate for the shepherd to come to the sheep; in Jn 10:9–10, the figure is of a gate for the sheep to come in and go out.
+* [10:8] [Before me]: these words are omitted in many good early manuscripts and versions.
+* [10:16] Other sheep: the Gentiles, possibly a reference to “God’s dispersed children” of Jn 11:52 destined to be gathered into one, or “apostolic Christians” at odds with the community of the beloved disciple.
+* [10:18] Power to take it up again: contrast the role of the Father as the efficient cause of the resurrection in Acts 2:24; 4:10; etc.; Rom 1:4; 4:24. Yet even here is added: This command I have received from my Father.
+* [10:22] Feast of the Dedication: an eight-day festival of lights (Hebrew, Hanukkah) held in December, three months after the feast of Tabernacles (Jn 7:2), to celebrate the Maccabees’ rededication of the altar and reconsecration of the temple in 164 B.C., after their desecration by Antiochus IV Epiphanes (Dn 8:13; 9:27; cf. 1 Mc 4:36–59; 2 Mc 1:18–2:19; 10:1–8).
+* [10:23] Portico of Solomon: on the east side of the temple area, offering protection against the cold winds from the desert.
+* [10:24] Keep us in suspense: literally, “How long will you take away our life?” Cf. Jn 11:48–50. If you are the Messiah, tell us plainly: cf. Lk 22:67. This is the climax of Jesus’ encounters with the Jewish authorities. There has never yet been an open confession before them.
+* [10:25] I told you: probably at Jn 8:25 which was an evasive answer.
+* [10:29] The textual evidence for the first clause is very divided; it may also be translated: “As for the Father, what he has given me is greater than all,” or “My Father is greater than all, in what he has given me.”
+* [10:30] This is justification for Jn 10:29; it asserts unity of power and reveals that the words and deeds of Jesus are the words and deeds of God.
+* [10:34] This is a reference to the judges of Israel who, since they exercised the divine prerogative to judge (Dt 1:17), were called “gods”; cf. Ex 21:6, besides Ps 82:6 from which the quotation comes.
+* [10:36] Consecrated: this may be a reference to the rededicated altar at the Hanukkah feast; see note on Jn 10:22.
+* [10:41] Performed no sign: this is to stress the inferior role of John the Baptist. The Transjordan topography recalls the great witness of John the Baptist to Jesus, as opposed to the hostility of the authorities in Jerusalem.
+
+*** chapter 11 ***
+
+* [11:1–44] The raising of Lazarus, the longest continuous narrative in John outside of the passion account, is the climax of the signs. It leads directly to the decision of the Sanhedrin to kill Jesus. The theme of life predominates. Lazarus is a token of the real life that Jesus dead and raised will give to all who believe in him. Johannine irony is found in the fact that Jesus’ gift of life leads to his own death. The story is not found in the synoptics, but cf. Mk 5:21 and parallels; Lk 7:11–17. There are also parallels between this story and Luke’s parable of the rich man and poor Lazarus (Lk 16:19–31). In both a man named Lazarus dies; in Luke, there is a request that he return to convince his contemporaries of the need for faith and repentance, while in John, Lazarus does return and some believe but others do not.
+* [11:4] Not to end in death: this is misunderstood by the disciples as referring to physical death, but it is meant as spiritual death.
+* [11:10] The light is not in him: the ancients apparently did not grasp clearly the entry of light through the eye; they seem to have thought of it as being in the eye; cf. Lk 11:34; Mt 6:23.
+* [11:16] Called Didymus: Didymus is the Greek word for twin. Thomas is derived from the Aramaic word for twin; in an ancient Syriac version and in the Gospel of Thomas (80:11–12) his given name, Judas, is supplied.
+* [11:18] About two miles: literally, “about fifteen stades”; a stade was 607 feet.
+* [11:27] The titles here are a summary of titles given to Jesus earlier in the gospel.
+* [11:33] Became perturbed: a startling phrase in Greek, literally, “He snorted in spirit,” perhaps in anger at the presence of evil (death).
+* [11:41] Father: in Aramaic, “abba”. See note on Mk 14:36.
+* [11:43] Cried out in a loud voice: a dramatization of Jn 5:28; “the hour is coming when all who are in the tombs will hear his voice.”
+* [11:48] The Romans will come: Johannine irony; this is precisely what happened after Jesus’ death.
+* [11:49] That year: emphasizes the conjunction of the office and the year. Actually, Caiaphas was high priest A.D. 18–36. The Jews attributed a gift of prophecy, sometimes unconscious, to the high priest.
+* [11:52] Dispersed children of God: perhaps the “other sheep” of Jn 10:16.
+* [11:54] Ephraim is usually located about twelve miles northeast of Jerusalem, where the mountains descend into the Jordan valley.
+* [11:55] Purify: prescriptions for purity were based on Ex 19:10–11, 15; Nm 9:6–14; 2 Chr 30:1–3, 15–18.
+
+*** chapter 12 ***
+
+* [12:1–8] This is probably the same scene of anointing found in Mk 14:3–9 (see note there) and Mt 26:6–13. The anointing by a penitent woman in Lk 7:36–38 is different. Details from these various episodes have become interchanged.
+* [12:3] The feet of Jesus: so Mk 14:3; but in Mt 26:6, Mary anoints Jesus’ head as a sign of regal, messianic anointing.
+* [12:5] Days’ wages: literally, “denarii.” A denarius is a day’s wage in Mt 20:2; see note on Jn 6:7.
+* [12:7] Jesus’ response reflects the rabbinical discussion of what was the greatest act of mercy, almsgiving or burying the dead. Those who favored proper burial of the dead thought it an essential condition for sharing in the resurrection.
+* [12:12–19] In John, the entry into Jerusalem follows the anointing whereas in the synoptics it precedes. In John, the crowd, not the disciples, are responsible for the triumphal procession.
+* [12:13] Palm branches: used to welcome great conquerors; cf. 1 Mc 13:51; 2 Mc 10:7. They may be related to the lûlāb, the twig bundles used at the feast of Tabernacles. Hosanna: see Ps 118:25–26. The Hebrew word means: “(O Lord), grant salvation.” He who comes in the name of the Lord: referred in Ps 118:26 to a pilgrim entering the temple gates, but here a title for Jesus (see notes on Mt 11:3 and Jn 6:14; 11:27). The king of Israel: perhaps from Zep 3:14–15 in connection with the next quotation from Zec 9:9.
+* [12:15] Daughter Zion: Jerusalem. Ass’s colt: symbol of peace, as opposed to the war horse.
+* [12:16] They had done this: the antecedent of they is ambiguous.
+* [12:17–18] There seem to be two different crowds in these verses. There are some good witnesses to the text that have another reading for Jn 12:17: “Then the crowd that was with him began to testify that he had called Lazarus out of the tomb and raised him from the dead.”
+* [12:19] The whole world: the sense is that everyone is following Jesus, but John has an ironic play on world; he alludes to the universality of salvation (Jn 3:17; 4:42).
+* [12:20–36] This announcement of glorification by death is an illustration of “the whole world” (19) going after him.
+* [12:20] Greeks: not used here in a nationalistic sense. These are probably Gentile proselytes to Judaism; cf. Jn 7:35.
+* [12:21–22] Philip…Andrew: the approach is made through disciples who have distinctly Greek names, suggesting that access to Jesus was mediated to the Greek world through his disciples. Philip and Andrew were from Bethsaida (Jn 1:44); Galileans were mostly bilingual. See: here seems to mean “have an interview with.”
+* [12:23] Jesus’ response suggests that only after the crucifixion could the gospel encompass both Jew and Gentile.
+* [12:24] This verse implies that through his death Jesus will be accessible to all. It remains just a grain of wheat: this saying is found in the synoptic triple and double traditions (Mk 8:35; Mt 16:25; Lk 9:24; Mt 10:39; Lk 17:33). John adds the phrases (Jn 12:25) in this world and for eternal life.
+* [12:25] His life: the Greek word psychē refers to a person’s natural life. It does not mean “soul,” for Hebrew anthropology did not postulate body/soul dualism in the way that is familiar to us.
+* [12:27] I am troubled: perhaps an allusion to the Gethsemane agony scene of the synoptics.
+* [12:31] Ruler of this world: Satan.
+* [12:34] There is no passage in the Old Testament that states precisely that the Messiah remains forever. Perhaps the closest is Ps 89:37.
+* [12:37–50] These verses, on unbelief of the Jews, provide an epilogue to the Book of Signs.
+* [12:38–41] John gives a historical explanation of the disbelief of the Jewish people, not a psychological one. The Old Testament had to be fulfilled; the disbelief that met Isaiah’s message was a foreshadowing of the disbelief that Jesus encountered. In Jn 12:42 and also in Jn 3:20 we see that there is no negation of freedom.
+* [12:41] His glory: Isaiah saw the glory of Yahweh enthroned in the heavenly temple, but in John the antecedent of his is Jesus.
+
+*** chapter 13 ***
+
+* [13:1–19:42] The Book of Glory. There is a major break here; the word “sign” is used again only in Jn 20:30. In this phase of Jesus’ return to the Father, the discourses (Jn 13–17) precede the traditional narrative of the passion (Jn 18–20) to interpret them for the Christian reader. This is the only extended example of esoteric teaching of disciples in John.
+* [13:1–20] Washing of the disciples’ feet. This episode occurs in John at the place of the narration of the institution of the Eucharist in the synoptics. It may be a dramatization of Lk 22:27—“I am your servant.” It is presented as a “model” (“pattern”) of the crucifixion. It symbolizes cleansing from sin by sacrificial death.
+* [13:1] Before the feast of Passover: this would be Thursday evening, before the day of preparation; in the synoptics, the Last Supper is a Passover meal taking place, in John’s chronology, on Friday evening. To the end: or, “completely.”
+* [13:2] Induced: literally, “The devil put into the heart that Judas should hand him over.”
+* [13:5] The act of washing another’s feet was one that could not be required of the lowliest Jewish slave. It is an allusion to the humiliating death of the crucifixion.
+* [13:10] Bathed: many have suggested that this passage is a symbolic reference to baptism. The Greek root involved is used in baptismal contexts in 1 Cor 6:11; Eph 5:26; Ti 3:5; Heb 10:22.
+* [13:16] Messenger: the Greek has apostolos, the only occurrence of the term in John. It is not used in the technical sense here.
+* [13:23] The one whom Jesus loved: also mentioned in Jn 19:26; 20:2; 21:7. A disciple, called “another disciple” or “the other disciple,” is mentioned in Jn 18:15 and Jn 20:2; in the latter reference he is identified with the disciple whom Jesus loved. There is also an unnamed disciple in Jn 1:35–40; see note on Jn 1:37.
+* [13:26] Morsel: probably the bitter herb dipped in salt water.
+* [13:31–17:26] Two farewell discourses and a prayer. These seem to be Johannine compositions, including sayings of Jesus at the Last Supper and on other occasions, modeled on similar farewell discourses in Greek literature and the Old Testament (of Moses, Joshua, David).
+* [13:31–38] Introduction: departure and return. Terms of coming and going predominate. These verses form an introduction to the last discourse of Jesus, which extends through Jn 14–17. In it John has collected Jesus’ words to his own (Jn 13:1). There are indications that several speeches have been fused together, e.g., in Jn 14:31 and Jn 17:1.
+* [13:34] I give you a new commandment: this puts Jesus on a par with Yahweh. The commandment itself is not new; cf. Lv 19:18 and the note there.
+
+*** chapter 14 ***
+
+* [14:1–31] Jesus’ departure and return. This section is a dialogue marked off by a literary inclusion in Jn 14:1, 27: “Do not let your hearts be troubled.”
+* [14:1] You have faith: could also be imperative: “Have faith.”
+* [14:3] Come back again: a rare Johannine reference to the parousia; cf. 1 Jn 2:28.
+* [14:4] The way: here, of Jesus himself; also a designation of Christianity in Acts 9:2; 19:9, 23; 22:4; 24:14, 22.
+* [14:6] The truth: in John, the divinely revealed reality of the Father manifested in the person and works of Jesus. The possession of truth confers knowledge and liberation from sin (Jn 8:32).
+* [14:7] An alternative reading, “If you knew me, then you would have known my Father also,” would be a rebuke, as in Jn 8:19.
+* [14:8] Show us the Father: Philip is pictured asking for a theophany like Ex 24:9–10; 33:18.
+* [14:16] Another Advocate: Jesus is the first advocate (paraclete); see 1 Jn 2:1, where Jesus is an advocate in the sense of intercessor in heaven. The Greek term derives from legal terminology for an advocate or defense attorney, and can mean spokesman, mediator, intercessor, comforter, consoler, although no one of these terms encompasses the meaning in John. The Paraclete in John is a teacher, a witness to Jesus, and a prosecutor of the world, who represents the continued presence on earth of the Jesus who has returned to the Father.
+* [14:17] The Spirit of truth: this term is also used at Qumran, where it is a moral force put into a person by God, as opposed to the spirit of perversity. It is more personal in John; it will teach the realities of the new order (Jn 14:26), and testify to the truth (Jn 14:6). While it has been customary to use masculine personal pronouns in English for the Advocate, the Greek word for “spirit” is neuter, and the Greek text and manuscript variants fluctuate between masculine and neuter pronouns.
+* [14:18] I will come to you: indwelling, not parousia.
+* [14:22] Judas, not the Iscariot: probably not the brother of Jesus in Mk 6:3 // Mt 13:55 or the apostle named Jude in Lk 6:16 but Thomas (see note on Jn 11:16), although other readings have “Judas the Cananean.”
+* [14:27] Peace: the traditional Hebrew salutation šālôm; but Jesus’ “Shalom” is a gift of salvation, connoting the bounty of messianic blessing.
+* [14:28] The Father is greater than I: because he sent, gave, etc., and Jesus is “a man who has told you the truth that I heard from God” (Jn 8:40).
+* [14:30] The ruler of the world: Satan; cf. Jn 12:31; 16:11.
+
+*** chapter 15 ***
+
+* [15:1–16:4] Discourse on the union of Jesus with his disciples. His words become a monologue and go beyond the immediate crisis of the departure of Jesus.
+* [15:1–17] Like Jn 10:1–5, this passage resembles a parable. Israel is spoken of as a vineyard at Is 5:1–7; Mt 21:33–46 and as a vine at Ps 80:9–17; Jer 2:21; Ez 15:2; 17:5–10; 19:10; Hos 10:1. The identification of the vine as the Son of Man in Ps 80:15 and Wisdom’s description of herself as a vine in Sir 24:17 are further background for portrayal of Jesus by this figure. There may be secondary eucharistic symbolism here; cf. Mk 14:25, “the fruit of the vine.”
+* [15:2] Takes away,prunes: in Greek there is a play on two related verbs.
+* [15:6] Branches were cut off and dried on the wall of the vineyard for later use as fuel.
+* [15:13] For one’s friends: or: “those whom one loves.” In Jn 15:9–13a, the words for love are related to the Greek agapaō. In Jn 15:13b–15, the words for love are related to the Greek phileō. For John, the two roots seem synonymous and mean “to love”; cf. also Jn 21:15–17. The word philos is used here.
+* [15:15] Slaves,friends: in the Old Testament, Moses (Dt 34:5), Joshua (Jos 24:29), and David (Ps 89:21) were called “servants” or “slaves of Yahweh”; only Abraham (Is 41:8; 2 Chr 20:7; cf. Jas 2:23) was called a “friend of God.”
+* [15:18–16:4] The hostile reaction of the world. There are synoptic parallels, predicting persecution, especially at Mt 10:17–25; 24:9–10.
+* [15:20] The word I spoke to you: a reference to Jn 13:16.
+* [15:21] On account of my name: the idea of persecution for Jesus’ name is frequent in the New Testament (Mt 10:22; 24:9; Acts 9:14). For John, association with Jesus’ name implies union with Jesus.
+* [15:22, 24] Jesus’ words (spoken) and deeds (works) are the great motives of credibility. They have seen and hated: probably means that they have seen his works and still have hated; but the Greek can be read: “have seen both me and my Father and still have hated both me and my Father.” Works,that no one else ever did: so Yahweh in Dt 4:32–33.
+* [15:25] In their law: law is here used as a larger concept than the Pentateuch, for the reference is to Ps 35:19 or Ps 69:5. See notes on Jn 10:34; 12:34. Their law reflects the argument of the church with the synagogue.
+* [15:26] Whom I will send: in Jn 14:16, 26, the Paraclete is to be sent by the Father, at the request of Jesus. Here the Spirit comes from both Jesus and the Father in mission; there is no reference here to the eternal procession of the Spirit.
+
+*** chapter 16 ***
+
+* [16:2] Hour: of persecution, not Jesus’ “hour” (see note on Jn 2:4).
+* [16:4b–33] A duplicate of Jn 14:1–31 on departure and return.
+* [16:5] Not one of you asks me: the difficulty of reconciling this with Simon Peter’s question in Jn 13:36 and Thomas’ words in Jn 14:5 strengthens the supposition that the last discourse has been made up of several collections of Johannine material.
+* [16:8–11] These verses illustrate the forensic character of the Paraclete’s role: in the forum of the disciples’ conscience he prosecutes the world. He leads believers to see (a) that the basic sin was and is refusal to believe in Jesus; (b) that, although Jesus was found guilty and apparently died in disgrace, in reality righteousness has triumphed, for Jesus has returned to his Father; (c) finally, that it is the ruler of this world, Satan, who has been condemned through Jesus’ death (Jn 12:32).
+* [16:13] Declare to you the things that are coming: not a reference to new predictions about the future, but interpretation of what has already occurred or been said.
+* [16:25] See note on Jn 10:6. Here, possibly a reference to Jn 15:1–16 or Jn 16:21.
+* [16:30] The reference is seemingly to the fact that Jesus could anticipate their question in Jn 16:19. The disciples naively think they have the full understanding that is the climax of “the hour” of Jesus’ death, resurrection, and ascension (Jn 16:25), but the only part of the hour that is at hand for them is their share in the passion (Jn 16:32).
+* [16:32] You will be scattered: cf. Mk 14:27 and Mt 26:31, where both cite Zec 13:7 about the sheep being dispersed.
+
+*** chapter 17 ***
+
+* [17:1–26] Climax of the last discourse(s). Since the sixteenth century, this chapter has been called the “high priestly prayer” of Jesus. He speaks as intercessor, with words addressed directly to the Father and not to the disciples, who supposedly only overhear. Yet the prayer is one of petition, for immediate (Jn 17:6–19) and future (Jn 17:20–21) disciples. Many phrases reminiscent of the Lord’s Prayer occur. Although still in the world (Jn 17:13), Jesus looks on his earthly ministry as a thing of the past (Jn 17:4, 12). Whereas Jesus has up to this time stated that the disciples could follow him (Jn 13:33, 36), now he wishes them to be with him in union with the Father (Jn 17:12–14).
+* [17:1] The action of looking up to heaven and the address Father are typical of Jesus at prayer; cf. Jn 11:41 and Lk 11:2.
+* [17:2] Another possible interpretation is to treat the first line of the verse as parenthetical and the second as an appositive to the clause that ends v. 1: so that your son may glorify you (just as…all people), so that he may give eternal life….
+* [17:3] This verse was clearly added in the editing of the gospel as a reflection on the preceding verse; Jesus nowhere else refers to himself as Jesus Christ.
+* [17:6] I revealed your name: perhaps the name I AM; cf. Jn 8:24, 28, 58; 13:19.
+* [17:15] Note the resemblance to the petition of the Lord’s Prayer, “deliver us from the evil one.” Both probably refer to the devil rather than to abstract evil.
+* [17:24] Where I am: Jesus prays for the believers ultimately to join him in heaven. Then they will not see his glory as in a mirror but clearly (2 Cor 3:18; 1 Jn 3:2).
+* [17:26] I will make it known: through the Advocate.
+
+*** chapter 18 ***
+
+* [18:1–14] John does not mention the agony in the garden and the kiss of Judas, nor does he identify the place as Gethsemane or the Mount of Olives.
+* [18:1] Jesus went out: see Jn 14:31 where it seems he is leaving the supper room. Kidron valley: literally, “the winter-flowing Kidron”; this wadi has water only during the winter rains.
+* [18:3] Band of soldiers: seems to refer to Roman troops, either the full cohort of 600 men (1/10 of a legion), or more likely the maniple of 200 under their tribune (Jn 18:12). In this case, John is hinting at Roman collusion in the action against Jesus before he was brought to Pilate. The lanterns and torches may be symbolic of the hour of darkness.
+* [18:5] Nazorean: the form found in Mt 26:71 (see note on Mt 2:23) is here used, not Nazarene of Mark. I AM: or “I am he,” but probably intended by the evangelist as an expression of divinity (cf. their appropriate response in Jn 18:6); see note on Jn 8:24. John sets the confusion of the arresting party against the background of Jesus’ divine majesty.
+* [18:9] The citation may refer to Jn 6:39; 10:28; or Jn 17:12.
+* [18:10] Only John gives the names of the two antagonists; both John and Luke mention the right ear.
+* [18:11] The theme of the cup is found in the synoptic account of the agony (Mk 14:36 and parallels).
+* [18:13] Annas: only John mentions an inquiry before Annas; cf. Jn 18:16, 19–24; see note on Lk 3:2. It is unlikely that this nighttime interrogation before Annas is the same as the trial before Caiaphas placed by Matthew and Mark at night and by Luke in the morning.
+* [18:15–16] Another disciple…the other disciple: see note on Jn 13:23.
+* [18:20] I have always taught…in the temple area: cf. Mk 14:49 for a similar statement.
+* [18:24] Caiaphas: see Mt 26:3, 57; Lk 3:2; and the notes there. John may leave room here for the trial before Caiaphas described in the synoptic gospels.
+* [18:27] Cockcrow was the third Roman division of the night, lasting from midnight to 3 A.M.
+* [18:28] Praetorium: see note on Mt 27:27. Morning: literally, “the early hour,” or fourth Roman division of the night, 3 to 6 A.M. The Passover: the synoptic gospels give the impression that the Thursday night supper was the Passover meal (Mk 14:12); for John that meal is still to be eaten Friday night.
+* [18:31] We do not have the right to execute anyone: only John gives this reason for their bringing Jesus to Pilate. Jewish sources are not clear on the competence of the Sanhedrin at this period to sentence and to execute for political crimes.
+* [18:32] The Jewish punishment for blasphemy was stoning (Lv 24:16). In coming to the Romans to ensure that Jesus would be crucified, the Jewish authorities fulfilled his prophecy that he would be exalted (Jn 3:14; 12:32–33). There is some historical evidence, however, for Jews crucifying Jews.
+* [18:37] You say I am a king: see Mt 26:64 for a similar response to the high priest. It is at best a reluctant affirmative.
+* [18:39] See note on Mt 27:15.
+* [18:40] Barabbas: see note on Mt 27:16–17. Revolutionary: a guerrilla warrior fighting for nationalistic aims, though the term can also denote a robber. See note on Mt 27:38.
+
+*** chapter 19 ***
+
+* [19:1] Luke places the mockery of Jesus at the midpoint in the trial when Jesus was sent to Herod. Mark and Matthew place the scourging and mockery at the end of the trial after the sentence of death. Scourging was an integral part of the crucifixion penalty.
+* [19:7] Made himself the Son of God: this question was not raised in John’s account of the Jewish interrogations of Jesus as it was in the synoptic account. Nevertheless, see Jn 5:18; 8:53; 10:36.
+* [19:12] Friend of Caesar: a Roman honorific title bestowed upon high-ranking officials for merit.
+* [19:13] Seated him: others translate “(Pilate) sat down.” In John’s thought, Jesus is the real judge of the world, and John may here be portraying him seated on the judgment bench. Stone pavement: in Greek lithostrotos; under the fortress Antonia, one of the conjectured locations of the praetorium, a massive stone pavement has been excavated. Gabbatha (Aramaic rather than Hebrew) probably means “ridge, elevation.”
+* [19:14] Noon: Mk 15:25 has Jesus crucified “at the third hour,” which means either 9 A.M. or the period from 9 to 12. Noon, the time when, according to John, Jesus was sentenced to death, was the hour at which the priests began to slaughter Passover lambs in the temple; see Jn 1:29.
+* [19:16] He handed him over to them to be crucified: in context this would seem to mean “handed him over to the chief priests.” Lk 23:25 has a similar ambiguity. There is a polemic tendency in the gospels to place the guilt of the crucifixion on the Jewish authorities and to exonerate the Romans from blame. But John later mentions the Roman soldiers (Jn 19:23), and it was to these soldiers that Pilate handed Jesus over.
+* [19:17] Carrying the cross himself: a different picture from that of the synoptics, especially Lk 23:26 where Simon of Cyrene is made to carry the cross, walking behind Jesus. In John’s theology, Jesus remained in complete control and master of his destiny (cf. Jn 10:18). Place of the Skull: the Latin word for skull is Calvaria; hence “Calvary.” Golgotha is actually an Aramaic rather than a Hebrew word.
+* [19:19] The inscription differs with slightly different words in each of the four gospels. John’s form is fullest and gives the equivalent of the Latin INRI = Iesus Nazarenus Rex Iudaeorum. Only John mentions its polyglot character (Jn 19:20) and Pilate’s role in keeping the title unchanged (Jn 19:21–22).
+* [19:23–25a] While all four gospels describe the soldiers casting lots to divide Jesus’ garments (see note on Mt 27:35), only John quotes the underlying passage from Ps 22:19, and only John sees each line of the poetic parallelism literally carried out in two separate actions (Jn 19:23–24).
+* [19:25] It is not clear whether four women are meant, or three (i.e., Mary the wife of Cl[e]opas [cf. Lk 24:18] is in apposition with his mother’s sister) or two (his mother and his mother’s sister, i.e., Mary of Cl[e]opas and Mary of Magdala). Only John mentions the mother of Jesus here. The synoptics have a group of women looking on from a distance at the cross (Mk 15:40).
+* [19:26–27] This scene has been interpreted literally, of Jesus’ concern for his mother; and symbolically, e.g., in the light of the Cana story in Jn 2 (the presence of the mother of Jesus, the address woman, and the mention of the hour) and of the upper room in Jn 13 (the presence of the beloved disciple; the hour). Now that the hour has come (Jn 19:28), Mary (a symbol of the church?) is given a role as the mother of Christians (personified by the beloved disciple); or, as a representative of those seeking salvation, she is supported by the disciple who interprets Jesus’ revelation; or Jewish and Gentile Christianity (or Israel and the Christian community) are reconciled.
+* [19:28] The scripture…fulfilled: either in the scene of Jn 19:25–27, or in the I thirst of Jn 19:28. If the latter, Ps 22:16; 69:22 deserve consideration.
+* [19:29] Wine: John does not mention the drugged wine, a narcotic that Jesus refused as the crucifixion began (Mk 15:23), but only this final gesture of kindness at the end (Mk 15:36). Hyssop, a small plant, is scarcely suitable for carrying a sponge (Mark mentions a reed) and may be a symbolic reference to the hyssop used to daub the blood of the paschal lamb on the doorpost of the Hebrews (Ex 12:22).
+* [19:30] Handed over the spirit: there is a double nuance of dying (giving up the last breath or spirit) and that of passing on the holy Spirit; see Jn 7:39 which connects the giving of the Spirit with Jesus’ glorious return to the Father, and Jn 20:22 where the author portrays the conferral of the Spirit.
+* [19:34–35] John probably emphasizes these verses to show the reality of Jesus’ death, against the docetic heretics. In the blood and water there may also be a symbolic reference to the Eucharist and baptism.
+* [19:35] He knows: it is not certain from the Greek that this he is the eyewitness of the first part of the sentence. May [come to] believe: see note on Jn 20:31.
+* [19:38–42] In the first three gospels there is no anointing on Friday. In Matthew and Luke the women come to the tomb on Sunday morning precisely to anoint Jesus.
+
+*** chapter 20 ***
+
+* [20:1–31] The risen Jesus reveals his glory and confers the Spirit. This story fulfills the basic need for testimony to the resurrection. What we have here is not a record but a series of single stories.
+* [20:1–10] The story of the empty tomb is found in both the Matthean and the Lucan traditions; John’s version seems to be a fusion of the two.
+* [20:1] Still dark: according to Mark the sun had risen, Matthew describes it as “dawning,” and Luke refers to early dawn. Mary sees the stone removed, not the empty tomb.
+* [20:2] Mary runs away, not directed by an angel/young man as in the synoptic accounts. The plural “we” in the second part of her statement might reflect a tradition of more women going to the tomb.
+* [20:3–10] The basic narrative is told of Peter alone in Lk 24:12, a verse missing in important manuscripts and which may be borrowed from tradition similar to John. Cf. also Lk 24:24.
+* [20:6–8] Some special feature about the state of the burial cloths caused the beloved disciple to believe. Perhaps the details emphasized that the grave had not been robbed.
+* [20:9] Probably a general reference to the scriptures is intended, as in Lk 24:26 and 1 Cor 15:4. Some individual Old Testament passages suggested are Ps 16:10; Hos 6:2; Jon 2:1, 2, 10.
+* [20:11–18] This appearance to Mary is found only in John, but cf. Mt 28:8–10 and Mk 16:9–11.
+* [20:16] Rabbouni: Hebrew or Aramaic for “my master.”
+* [20:17] Stop holding on to me: see Mt 28:9, where the women take hold of his feet. I have not yet ascended: for John and many of the New Testament writers, the ascension in the theological sense of going to the Father to be glorified took place with the resurrection as one action. This scene in John dramatizes such an understanding, for by Easter night Jesus is glorified and can give the Spirit. Therefore his ascension takes place immediately after he has talked to Mary. In such a view, the ascension after forty days described in Acts 1:1–11 would be simply a termination of earthly appearances or, perhaps better, an introduction to the conferral of the Spirit upon the early church, modeled on Elisha’s being able to have a (double) share in the spirit of Elijah if he saw him being taken up (same verb as ascending) into heaven (2 Kgs 2:9–12). To my Father and your Father, to my God and your God: this echoes Ru 1:16: “Your people shall be my people, and your God my God.” The Father of Jesus will now become the Father of the disciples because, once ascended, Jesus can give them the Spirit that comes from the Father and they can be reborn as God’s children (Jn 3:5). That is why he calls them my brothers.
+* [20:19–29] The appearances to the disciples, without or with Thomas (cf. Jn 11:16; 14:5), have rough parallels in the other gospels only for Jn 20:19–23; cf. Lk 24:36–39; Mk 16:14–18.
+* [20:19] The disciples: by implication from Jn 20:24 this means ten of the Twelve, presumably in Jerusalem. Peace be with you: although this could be an ordinary greeting, John intends here to echo Jn 14:27. The theme of rejoicing in Jn 20:20 echoes Jn 16:22.
+* [20:20] Hands and…side: Lk 24:39–40 mentions “hands and feet,” based on Ps 22:17.
+* [20:21] By means of this sending, the Eleven were made apostles, that is, “those sent” (cf. Jn 17:18), though John does not use the noun in reference to them (see note on Jn 13:16). A solemn mission or “sending” is also the subject of the post-resurrection appearances to the Eleven in Mt 28:19; Lk 24:47; Mk 16:15.
+* [20:22] This action recalls Gn 2:7, where God breathed on the first man and gave him life; just as Adam’s life came from God, so now the disciples’ new spiritual life comes from Jesus. Cf. also the revivification of the dry bones in Ez 37. This is the author’s version of Pentecost. Cf. also the note on Jn 19:30.
+* [20:23] The Council of Trent defined that this power to forgive sins is exercised in the sacrament of penance. See Mt 16:19; Mt 18:18.
+* [20:28] My Lord and my God: this forms a literary inclusion with the first verse of the gospel: “and the Word was God.”
+* [20:29] This verse is a beatitude on future generations; faith, not sight, matters.
+* [20:30–31] These verses are clearly a conclusion to the gospel and express its purpose. While many manuscripts read come to believe, possibly implying a missionary purpose for John’s gospel, a small number of quite early ones read “continue to believe,” suggesting that the audience consists of Christians whose faith is to be deepened by the book; cf. Jn 19:35.
+
+*** chapter 21 ***
+
+* [21:1–23] There are many non-Johannine peculiarities in this chapter, some suggesting Lucan Greek style; yet this passage is closer to John than Jn 7:53–8:11. There are many Johannine features as well. Its closest parallels in the synoptic gospels are found in Lk 5:1–11 and Mt 14:28–31. Perhaps the tradition was ultimately derived from John but preserved by some disciple other than the writer of the rest of the gospel. The appearances narrated seem to be independent of those in Jn 20. Even if a later addition, the chapter was added before publication of the gospel, for it appears in all manuscripts.
+* [21:2] Zebedee’s sons: the only reference to James and John in this gospel (but see note on Jn 1:37). Perhaps the phrase was originally a gloss to identify, among the five, the two others of his disciples. The anonymity of the latter phrase is more Johannine (Jn 1:35). The total of seven may suggest the community of the disciples in its fullness.
+* [21:3–6] This may be a variant of Luke’s account of the catch of fish; see note on Lk 5:1–11.
+* [21:9, 12–13] It is strange that Jesus already has fish since none have yet been brought ashore. This meal may have had eucharistic significance for early Christians since Jn 21:13 recalls Jn 6:11 which uses the vocabulary of Jesus’ action at the Last Supper; but see also note on Mt 14:19.
+* [21:11] The exact number 153 is probably meant to have a symbolic meaning in relation to the apostles’ universal mission; Jerome claims that Greek zoologists catalogued 153 species of fish. Or 153 is the sum of the numbers from 1 to 17. Others invoke Ez 47:10.
+* [21:12] None…dared to ask him: is Jesus’ appearance strange to them? Cf. Lk 24:16; Mk 16:12; Jn 20:14. The disciples do, however, recognize Jesus before the breaking of the bread (opposed to Lk 24:35).
+* [21:14] This verse connects Jn 20 and 21; cf. Jn 20:19, 26.
+* [21:15–23] This section constitutes Peter’s rehabilitation and emphasizes his role in the church.
+* [21:15–17] In these three verses there is a remarkable variety of synonyms: two different Greek verbs for love (see note on Jn 15:13); two verbs for feed/tend; two nouns for sheep; two verbs for know. But apparently there is no difference of meaning. The threefold confession of Peter is meant to counteract his earlier threefold denial (Jn 18:17, 25, 27). The First Vatican Council cited these verses in defining that Jesus after his resurrection gave Peter the jurisdiction of supreme shepherd and ruler over the whole flock.
+* [21:15] More than these: probably “more than these disciples do” rather than “more than you love them” or “more than you love these things [fishing, etc.].”
+* [21:18] Originally probably a proverb about old age, now used as a figurative reference to the crucifixion of Peter.
+* [21:22] Until I come: a reference to the parousia.
+* [21:23] This whole scene takes on more significance if the disciple is already dead. The death of the apostolic generation caused problems in the church because of a belief that Jesus was to have returned first. Loss of faith sometimes resulted; cf. 2 Pt 3:4.
+* [21:24] Who…has written them: this does not necessarily mean he wrote them with his own hand. The same expression is used in Jn 19:22 of Pilate, who certainly would not have written the inscription himself. We know: i.e., the Christian community; cf. Jn 1:14, 16.

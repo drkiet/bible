@@ -1,0 +1,73 @@
+1 Gen,  Ge, Gn
+2 Exod,  Ex
+3 Lev,  Lv, Le
+4 Num,  Nm, Nu
+5 Deut,  Dt, De, Du
+6 Josh,  Jos, Jo
+7 Judg,  Jdg, Jgs
+8 Ruth,  Ru
+9 1 Sam,  1Sm, 1Sa
+10 2 Sam,  2Sm, 2Sa
+11 1 Kgs,  1Kg, 1Ki
+12 2 Kgs,  2Kg, 2Ki
+13 1 Chr,  1 Chron, 1Ch
+14 2 Chr,  2 Chron, 2Ch
+15 Ezra,  Ezr
+16 Neh,  Ne
+17 Tob,  Tb
+18 Jdt,  Jth
+19 Esth,  Est, Es
+20 1 Macc,  1Mc, 1Ma
+21 2 Macc,  2Mc, 2Ma
+22 Job,  Jb
+23 Ps (pl. Pss)
+24 Prov,  Prv, Pr
+25 Eccl,  Eccles, Ec, Qoh
+26 Song,  SS, So, Sg, Cant, Can
+27 Wis,  Ws
+28 Sir, Ecclus
+29 Isa,  Is
+30 Jer,  Je
+31 Lam,  La
+32 Bar,  Ba
+33 Ezek,  Ezk, Ez
+34 Dan,  Dn, Da
+35 Hos,  Ho
+36 Joel,  Joe, Jl
+37 Amos,  Am
+38 Obad,  Ob
+39 Jonah,  Jon
+40 Mic,  Mi
+41 Nah,  Na
+42 Hab,  Hb
+43 Zeph,  Zep
+44 Hag,  Hg
+45 Zech,  Zec
+46 Mal,  Ml
+47 Matt,  Mat, Mt
+48 Mark,  Mar, Mk
+49 Luke,  Lk, Lu
+50 John,  Jn, Jo
+51 Acts,  Ac
+52 Rom,  Rm, Ro
+53 1 Cor,  1 Co, 1C
+54 2 Cor,  2 Co, 2C
+55 Gal,  Ga
+56 Eph,  Ep
+57 Phil,  Php
+58 Col,  Co
+59 1 Thess,  1 Thes, 1Th
+60 2 Thess,  2 Thes, 2Th
+61 1 Tim,  1 Tm, 1 Ti, 1T
+62 2 Tim,  2 Tm, 2 Ti, 2T
+63 Titus,  Tit, Ti
+64 Phlm,  Philem, Phm
+65 Heb,  He
+66 Jas,  Ja
+67 1 Pet,  1 Pt, 1P
+68 2 Pet,  2 Pt, 2P
+69 1 John,  1 Jn, 1 Jo, 1J
+70 2 John,  2 Jn, 2 Jo, 2J
+71 3 John,  3 Jn, 3 Jo, 3J
+72 Jude,  Ju
+73 Rev,  Re, Rv, Apoc,  Ap

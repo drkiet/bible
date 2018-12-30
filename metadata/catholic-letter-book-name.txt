@@ -1,0 +1,8 @@
+66 James
+67 1 Peter
+68 2 Peter
+69 1 John
+70 2 John
+71 3 John
+72 Jude
+73 Revelation
