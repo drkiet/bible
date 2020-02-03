@@ -9,3 +9,27 @@ It contains for folders for the four translation mentioned above and one folder 
 - Douam-Rheims (from http://www.drbo.org)
 - Latin Vulgate (from http://www.drbo.org)
 
+
+```scala
+package practices
+
+import scala.io.Source
+
+object FileReader {
+  def main(args: Array[String]): Unit = {
+//    val fileStream = getClass.getResourceAsStream("/home/student/kiet/thebible/dr/01-Genesis-text.txt")
+    val lines = Source.fromFile("/home/student/kiet/thebible/dr/01-Genesis-text.txt").getLines
+    lines.foreach(line => {
+      var new_line = line
+      if (line.size > 0) {
+        if (line.startsWith("*** the book")) print("# ")
+        else if (line.startsWith("*** chapter")) print("## ")
+        else if (!line.charAt(0).isDigit) print("### ")
+        else new_line = line + "  "
+      }
+      println(new_line)
+    })
+  }
+}
+```
+
