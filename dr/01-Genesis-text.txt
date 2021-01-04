@@ -1710,7 +1710,7 @@ The mourning for Jacob, and his interment. Joseph's kindness towards his brethre
 4 And the time of the mourning being expired, Joseph spoke to the family of Pharao: If I have found favour in your sight, speak in the ears of Pharao: 
 5 For my father made me swear to him, saying: Behold I die: thou shalt bury me in my sepulchre which I have digged for myself in the land of Chanaan. So I will go up and bury my father, and return.
 6 And Pharao said to him: Go up and bury thy father according as he made thee swear. 
-7 So he went up, and there went with him all the ancients of Pharao's house, and all th, BibleConstants.NAMES_OF_ALL_BOOKS_DRe elders of the land of Egypt, 
+7 So he went up, and there went with him all the ancients of Pharao's house, and all the elders of the land of Egypt, 
 8 And the house of Joseph with his brethren, except their children, and their flocks and herds, which they left in the land of Gessen. 
 9 He had also in his train chariots and horsemen: and it was a great company. 
 10 And they came to the threshingfloor of Atad, which is situated beyond the Jordan: where celebrating the exequies with a great and vehement lamentation, they spent full seven days.
