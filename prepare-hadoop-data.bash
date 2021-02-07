@@ -13,3 +13,8 @@ hdfs dfs -copyFromLocal ./dr.csv /user/thebible
 hdfs dfs -copyFromLocal ./lv.csv /user/thebible
 hdfs dfs -copyFromLocal ./nab.csv /user/thebible
 hdfs dfs -copyFromLocal ./rsv.csv /user/thebible
+
+hdfs dfs -copyFromLocal ./dr.json /user/thebible
+hdfs dfs -copyFromLocal ./lv.json /user/thebible
+hdfs dfs -copyFromLocal ./nab.json /user/thebible
+hdfs dfs -copyFromLocal ./rsv.json /user/thebible
